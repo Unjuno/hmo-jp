@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Experiment outputs
+artifacts/
+checkpoints/
+outputs/
+runs/
+logs/
+cache/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.zip
+
+# Local environment
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/
+
+# Keep intentionally versioned small fixtures with explicit negation rules when needed.
