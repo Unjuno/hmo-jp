@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "HMO-JP: Hallucination Mechanisms and Optimization for Japanese Language Models"
+message: "If you use this repository, please cite the repository and the specific experiment/release used."
+type: software
+authors:
+  - name: Unjuno
+repository-code: "https://github.com/Unjuno/hmo-jp"
+license: MIT
+date-released: 2026-09-09
+version: 0.1.0
